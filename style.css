@@ -1,0 +1,17 @@
+nav ul{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif  ;
+    padding-right: 90px;
+}
+.hello p{
+    font-size: large;
+    font-style: normal;
+    color:black;
+}
+.now{
+    text-align: center;
+    list-style: square;
+}
+.nav-brand{
+    padding-left: 65px;
+}
+
